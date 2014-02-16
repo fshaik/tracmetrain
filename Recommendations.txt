@@ -1,0 +1,28 @@
+Localization/Prediction Recommendations
+Add in a way for averaging a set of scans received, before running prediction on them. (Right now all we do is average a set of predictions, not the scans used to get a prediction)
+
+Implement better clustering system. (Right now, we can cluster using a simple k means algorithm, but we are unable to get the feature/access point that is closest to the calculated centroid of the cluster.) 
+By finding each feature that is closest to its respective cluster's centroid, the machine learning algorithm will be able to produce more precise results in a lower amount of time.
+
+Better methods for interpolating predictions. Better method for finding predictions in between sampled points. 
+
+Adjust the deviation factors (deviation coefficient for weight, coefficient for prediction weight, des factor, number of predictions before analyzing, deviation radius, etc...)
+
+Sampling Recommendations
+
+When there are a lot of points and/or features in the sample set, it may be wise to split the sample set into two unique sample sets. 
+This will improve the prediction algorithm by decreasing the amount of classes it has to analyze and predict from. This will improve speed, and possibly the accuracy, because there are less classes to predict from, meaning better odds of finding the correct class. However, decreasing the amount of point in the sample set may decrease precision.
+
+Have a more even distribution of sample points on the floor plan. There were quite a few "dead spots" on our floor plan, which means there are no classes for the prediction algorithm to choose from. 
+Because of these large sections with unknown footprints, the prediction algorithm is more likely to choose these locations when the signal scans received are inconsistent with the signals received from the points in the sample set.
+
+Analyze and adjust values after samples (averaging, weighted averaging, eliminating outliers completely, etc..) to produce more reliable models. 
+     What we tried to do was eliminate outliers in the sample set. For each point sampled, we took each access point's RSSI values. For each set of values, if the majority of the values were equal to 0, 
+	 then the values not equal to zero were assigned the value 0. If the majority of the values were not zero, then the values equal to zero were set to equal the greatest value in the set.
+
+	An improvement on this technique would be: if the majority of the values are greater than the average value, then the values less than the said average are set to equal the greatest value in the set.
+
+Better understanding of where to put sample points. In the case of etrack (the indoor prediction system using zigbees) 
+they created a 10x10 grid (Ask Dr. Tran what it was exactly) with 10 zigbee sensors (again, ask Dr. Tran the exact amount). 
+That grid setup, including the decision of where to place their sample points, gave them higher accuracy, possibly because of the placement of the zigbee sensors. 
+In our application of the system, there was no real reason for putting a sample point at a location. We did not think about the location of the access points in the building and how that may relate to the proper placement of sample points to achieve optimal prediction accuracy.

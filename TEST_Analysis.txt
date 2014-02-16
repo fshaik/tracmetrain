@@ -1,0 +1,2136 @@
+###1,1
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 15.3
+Adjusted Mean: 16.3
+Original StdDev: 4.25626473257
+Adjusted StdDev: 2.4300747227
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 0.7
+Adjusted Mean: 2.2
+Original StdDev: 0.923380516877
+Adjusted StdDev: 1.0052493799
+
+For Access Point: 3
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.55
+Adjusted Mean: 0.0
+Original StdDev: 2.45967477525
+Adjusted StdDev: 0.0
+
+For Access Point: 4
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.6
+Adjusted Mean: 0.0
+Original StdDev: 2.683281573
+Adjusted StdDev: 0.0
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 0.95
+Adjusted Mean: 2.45
+Original StdDev: 1.0990426456
+Adjusted StdDev: 0.759154654516
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 9.4
+Adjusted Mean: 19.9
+Original StdDev: 9.68667016819
+Adjusted StdDev: 1.44732057337
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.05
+Adjusted Mean: 0.0
+Original StdDev: 4.69574275275
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 6.8
+Adjusted Mean: 0.0
+Original StdDev: 8.54461972915
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 2.6
+Adjusted Mean: 0.0
+Original StdDev: 5.33508743084
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.4
+Adjusted Mean: 16.4
+Original StdDev: 1.39170474788
+Adjusted StdDev: 1.39170474788
+
+For Access Point: 13
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.55
+Adjusted Mean: 0.0
+Original StdDev: 2.45967477525
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 7.0
+Adjusted Mean: 0.0
+Original StdDev: 9.78720969859
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 0.3
+Adjusted Mean: 0.0
+Original StdDev: 0.656946685332
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 3.0
+Adjusted Mean: 0.0
+Original StdDev: 6.15587011251
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###2,1
+
+For Access Point: 1
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.8
+Adjusted Mean: 0.0
+Original StdDev: 3.577708764
+Adjusted StdDev: 0.0
+
+For Access Point: 2
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 0.8
+Adjusted Mean: 0.0
+Original StdDev: 1.0052493799
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 5
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 0.8
+Adjusted Mean: 0.0
+Original StdDev: 1.0052493799
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.05
+Adjusted Mean: 0.0
+Original StdDev: 4.69574275275
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.7
+Adjusted Mean: 0.0
+Original StdDev: 3.1304951685
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 4.25
+Adjusted Mean: 0.0
+Original StdDev: 7.55244819143
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 13.55
+Adjusted Mean: 13.55
+Original StdDev: 2.21181040398
+Adjusted StdDev: 2.21181040398
+
+For Access Point: 13
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.8
+Adjusted Mean: 0.0
+Original StdDev: 3.577708764
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 0.6
+Adjusted Mean: 0.0
+Original StdDev: 0.940324691963
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 17.5
+Adjusted Mean: 17.5
+Original StdDev: 2.72416090413
+Adjusted StdDev: 2.72416090413
+
+For Access Point: 17
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 6.8
+Adjusted Mean: 0.0
+Original StdDev: 8.54461972915
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###3,1
+
+For Access Point: 1
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 5.15
+Adjusted Mean: 0.0
+Original StdDev: 9.29784921366
+Adjusted StdDev: 0.0
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 14.3
+Adjusted Mean: 15.25
+Original StdDev: 4.20651124355
+Adjusted StdDev: 2.67296405552
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 17.15
+Adjusted Mean: 17.15
+Original StdDev: 2.20704613263
+Adjusted StdDev: 2.20704613263
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.05
+Adjusted Mean: 0.0
+Original StdDev: 4.69574275275
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.6
+Adjusted Mean: 16.6
+Original StdDev: 2.41486623799
+Adjusted StdDev: 2.41486623799
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.9
+Adjusted Mean: 0.0
+Original StdDev: 4.0249223595
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###4,1
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 24.75
+Adjusted Mean: 24.75
+Original StdDev: 18.8396977292
+Adjusted StdDev: 18.8396977292
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.0
+Adjusted Mean: 16.0
+Original StdDev: 2.38415824272
+Adjusted StdDev: 2.38415824272
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 17.1
+Adjusted Mean: 17.1
+Original StdDev: 2.69307103117
+Adjusted StdDev: 2.69307103117
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 8.95
+Adjusted Mean: 21.95
+Original StdDev: 9.91264476897
+Adjusted StdDev: 5.58640266512
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.25
+Adjusted Mean: 16.25
+Original StdDev: 3.02402659415
+Adjusted StdDev: 3.02402659415
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 8
+Original Mean: 8.8
+Adjusted Mean: 14.8
+Original StdDev: 7.38134205455
+Adjusted StdDev: 0.410391340834
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###5,1
+
+For Access Point: 1
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.65
+Adjusted Mean: 0.0
+Original StdDev: 7.37902432575
+Adjusted StdDev: 0.0
+
+For Access Point: 2
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 0.4
+Adjusted Mean: 0.0
+Original StdDev: 0.50262468995
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.75
+Adjusted Mean: 16.75
+Original StdDev: 3.10983160824
+Adjusted StdDev: 3.10983160824
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 18.45
+Adjusted Mean: 18.45
+Original StdDev: 3.0517466957
+Adjusted StdDev: 3.0517466957
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 0.95
+Adjusted Mean: 1.0
+Original StdDev: 0.22360679775
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 3.0
+Adjusted Mean: 0.0
+Original StdDev: 5.33113989983
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 17.1
+Adjusted Mean: 17.1
+Original StdDev: 2.33733991853
+Adjusted StdDev: 2.33733991853
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 16.4
+Adjusted Mean: 17.6
+Original StdDev: 7.64612044731
+Adjusted StdDev: 6.76990243263
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.9
+Adjusted Mean: 0.0
+Original StdDev: 4.0249223595
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 4.55
+Adjusted Mean: 0.0
+Original StdDev: 6.36168630408
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 9
+Original Mean: 7.7
+Adjusted Mean: 14.0
+Original StdDev: 7.14584899748
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 3.85
+Adjusted Mean: 0.0
+Original StdDev: 5.38296533423
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###6,1
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 6
+Original Mean: 9.45
+Adjusted Mean: 14.85
+Original StdDev: 6.76270733703
+Adjusted StdDev: 3.15018796432
+
+For Access Point: 2
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 0.3
+Adjusted Mean: 0.0
+Original StdDev: 0.470162345982
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.25
+Adjusted Mean: 16.25
+Original StdDev: 3.43166370577
+Adjusted StdDev: 3.43166370577
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 17.1
+Adjusted Mean: 17.1
+Original StdDev: 2.78907643646
+Adjusted StdDev: 2.78907643646
+
+For Access Point: 5
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 0.3
+Adjusted Mean: 0.0
+Original StdDev: 0.470162345982
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.95
+Adjusted Mean: 0.0
+Original StdDev: 4.24852915725
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.2
+Adjusted Mean: 0.0
+Original StdDev: 5.366563146
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 15.25
+Adjusted Mean: 16.35
+Original StdDev: 4.88687824151
+Adjusted StdDev: 3.57292449874
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 6
+Original Mean: 9.7
+Adjusted Mean: 14.5
+Original StdDev: 6.88323669275
+Adjusted StdDev: 2.43872270278
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.7
+Adjusted Mean: 0.0
+Original StdDev: 3.1304951685
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###6,2
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 25.4
+Adjusted Mean: 25.4
+Original StdDev: 20.3971102184
+Adjusted StdDev: 20.3971102184
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 15.35
+Adjusted Mean: 15.35
+Original StdDev: 1.03998987849
+Adjusted StdDev: 1.03998987849
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 3
+Original Mean: 13.9
+Adjusted Mean: 16.45
+Original StdDev: 6.14645811573
+Adjusted StdDev: 1.39453821823
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.85
+Adjusted Mean: 0.0
+Original StdDev: 3.80131556175
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 4.0
+Adjusted Mean: 0.0
+Original StdDev: 5.0262468995
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 9
+Values Adjusted to Max: 0
+Original Mean: 5.1
+Adjusted Mean: 0.0
+Original StdDev: 5.8210145616
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 8
+Original Mean: 9.65
+Adjusted Mean: 16.85
+Original StdDev: 8.11934013393
+Adjusted StdDev: 1.22581873821
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 3
+Values Adjusted to Max: 0
+Original Mean: 2.4
+Adjusted Mean: 0.0
+Original StdDev: 5.86156077652
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###5,2
+
+For Access Point: 1
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 1.1
+Adjusted Mean: 0.0
+Original StdDev: 4.9193495505
+Adjusted StdDev: 0.0
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 15.5
+Adjusted Mean: 15.5
+Original StdDev: 3.03488489333
+Adjusted StdDev: 3.03488489333
+
+For Access Point: 4
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 3.4
+Adjusted Mean: 0.0
+Original StdDev: 7.06660046311
+Adjusted StdDev: 0.0
+
+For Access Point: 5
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 0.5
+Adjusted Mean: 0.0
+Original StdDev: 0.888523316639
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 17.25
+Adjusted Mean: 18.35
+Original StdDev: 4.77796477262
+Adjusted StdDev: 2.66112362497
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 6.0
+Adjusted Mean: 0.0
+Original StdDev: 7.53937034925
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 2.6
+Adjusted Mean: 0.0
+Original StdDev: 5.56681899151
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 3
+Values Adjusted to Max: 0
+Original Mean: 1.95
+Adjusted Mean: 0.0
+Original StdDev: 4.76251813092
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 1
+Values Adjusted to Max: 0
+Original Mean: 0.75
+Adjusted Mean: 0.0
+Original StdDev: 3.35410196625
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 2
+Original Mean: 14.0
+Adjusted Mean: 15.7
+Original StdDev: 5.25156618243
+Adjusted StdDev: 2.20286894275
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 7
+Original Mean: 10.5
+Adjusted Mean: 17.85
+Original StdDev: 8.26851988282
+Adjusted StdDev: 3.39155297452
+
+For Access Point: 21
+Values Adjusted to Zero: 2
+Values Adjusted to Max: 0
+Original Mean: 1.3
+Adjusted Mean: 0.0
+Original StdDev: 4.00131557313
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###4,2
+
+For Access Point: 1
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 5.3
+Adjusted Mean: 0.0
+Original StdDev: 7.41335920733
+Adjusted StdDev: 0.0
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 1
+Original Mean: 1.3
+Adjusted Mean: 1.4
+Original StdDev: 0.571240570577
+Adjusted StdDev: 0.50262468995
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 13.85
+Adjusted Mean: 13.85
+Original StdDev: 1.46089374231
+Adjusted StdDev: 1.46089374231
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 14.9
+Adjusted Mean: 14.9
+Original StdDev: 1.99736668747
+Adjusted StdDev: 1.99736668747
+
+For Access Point: 5
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 1.45
+Adjusted Mean: 0.0
+Original StdDev: 2.16369566884
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 7
+Original Mean: 11.55
+Adjusted Mean: 18.55
+Original StdDev: 9.01738087777
+Adjusted StdDev: 2.62528193975
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 11.55
+Adjusted Mean: 11.55
+Original StdDev: 1.23437604097
+Adjusted StdDev: 1.23437604097
+
+For Access Point: 13
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 8
+Original Mean: 10.75
+Adjusted Mean: 18.35
+Original StdDev: 9.03720380602
+Adjusted StdDev: 0.933302004487
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 4
+Values Adjusted to Max: 0
+Original Mean: 0.2
+Adjusted Mean: 0.0
+Original StdDev: 0.410391340834
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 4.65
+Adjusted Mean: 0.0
+Original StdDev: 6.52343951899
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 15.0
+Adjusted Mean: 15.0
+Original StdDev: 4.06525716154
+Adjusted StdDev: 4.06525716154
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###3,2
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 22.65
+Adjusted Mean: 22.65
+Original StdDev: 15.7121307477
+Adjusted StdDev: 15.7121307477
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 0.5
+Adjusted Mean: 1.0
+Original StdDev: 0.512989176043
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 14.95
+Adjusted Mean: 14.95
+Original StdDev: 1.76142884584
+Adjusted StdDev: 1.76142884584
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 15.85
+Adjusted Mean: 15.85
+Original StdDev: 2.41214034679
+Adjusted StdDev: 2.41214034679
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 10
+Original Mean: 0.5
+Adjusted Mean: 1.0
+Original StdDev: 0.512989176043
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 5.75
+Adjusted Mean: 0.0
+Original StdDev: 10.2180181413
+Adjusted StdDev: 0.0
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 9
+Values Adjusted to Max: 0
+Original Mean: 6.65
+Adjusted Mean: 0.0
+Original StdDev: 7.98864325481
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 5.25
+Adjusted Mean: 0.0
+Original StdDev: 7.34040727394
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 3
+Values Adjusted to Max: 0
+Original Mean: 2.25
+Adjusted Mean: 0.0
+Original StdDev: 5.49521322799
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 3
+Values Adjusted to Max: 0
+Original Mean: 2.7
+Adjusted Mean: 0.0
+Original StdDev: 6.59425587359
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 3
+Values Adjusted to Max: 0
+Original Mean: 2.2
+Adjusted Mean: 0.0
+Original StdDev: 5.53077514316
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 4.4
+Adjusted Mean: 0.0
+Original StdDev: 5.52887158945
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 4.8
+Adjusted Mean: 0.0
+Original StdDev: 6.0314962794
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###2,2
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 24.35
+Adjusted Mean: 24.35
+Original StdDev: 21.1816082089
+Adjusted StdDev: 21.1816082089
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 3
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 4.2
+Adjusted Mean: 0.0
+Original StdDev: 6.58227284374
+Adjusted StdDev: 0.0
+
+For Access Point: 4
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 13.45
+Adjusted Mean: 13.45
+Original StdDev: 1.46808145479
+Adjusted StdDev: 1.46808145479
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 6
+Values Adjusted to Zero: 2
+Values Adjusted to Max: 0
+Original Mean: 2.0
+Adjusted Mean: 0.0
+Original StdDev: 6.15587011251
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 12.35
+Adjusted Mean: 12.35
+Original StdDev: 2.75824123978
+Adjusted StdDev: 2.75824123978
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 4.5
+Adjusted Mean: 0.0
+Original StdDev: 7.05243518972
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 8
+Values Adjusted to Max: 0
+Original Mean: 7.6
+Adjusted Mean: 0.0
+Original StdDev: 9.54986910905
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 6
+Values Adjusted to Max: 0
+Original Mean: 5.1
+Adjusted Mean: 0.0
+Original StdDev: 7.99275988169
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 5
+Values Adjusted to Max: 0
+Original Mean: 4.75
+Adjusted Mean: 0.0
+Original StdDev: 8.44097150807
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+###1,2
+
+For Access Point: 1
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 12.0666666667
+Adjusted Mean: 12.0666666667
+Original StdDev: 1.03279555899
+Adjusted StdDev: 1.03279555899
+
+For Access Point: 2
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 7
+Original Mean: 0.933333333333
+Adjusted Mean: 1.86666666667
+Original StdDev: 0.961150104723
+Adjusted StdDev: 0.351865775274
+
+For Access Point: 3
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 4
+Values Adjusted to Zero: 7
+Values Adjusted to Max: 0
+Original Mean: 5.6
+Adjusted Mean: 0.0
+Original StdDev: 6.19677335393
+Adjusted StdDev: 0.0
+
+For Access Point: 5
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 7
+Original Mean: 1.33333333333
+Adjusted Mean: 3.2
+Original StdDev: 1.58865022072
+Adjusted StdDev: 1.20712172424
+
+For Access Point: 6
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 7
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 8
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 9
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 16.1333333333
+Adjusted Mean: 16.1333333333
+Original StdDev: 5.43621016448
+Adjusted StdDev: 5.43621016448
+
+For Access Point: 10
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 11
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 12
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 13
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 14
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 15
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 16
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 17
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 18
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 19
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 20
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 3
+Original Mean: 12.8
+Adjusted Mean: 16.8
+Original StdDev: 7.12340207646
+Adjusted StdDev: 3.09838667697
+
+For Access Point: 21
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
+For Access Point: 22
+Values Adjusted to Zero: 0
+Values Adjusted to Max: 0
+Original Mean: 0.0
+Adjusted Mean: 0.0
+Original StdDev: 0.0
+Adjusted StdDev: 0.0
+
